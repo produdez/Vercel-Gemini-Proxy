@@ -21,7 +21,7 @@ Due to network conditions and geographical locations, access to the Gemini API c
 
 ## Deploy With Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDavidKk%2Fvercel-gemini-proxy)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/produdez/Vercel-Gemini-Proxy.git)
 
 ## Usage
 
